@@ -1,0 +1,144 @@
+plu,name_on_list,item,category,service,line,price_eur,price_type
+1,Maicë - Larje,Maicë,Të përditshme,Larje,Casual,2.5,fixed
+2,Maicë - Hekurosje,Maicë,Të përditshme,Hekurosje,Casual,1.5,fixed
+3,Maicë - Larje - Luxury Line,Maicë,Të përditshme,Larje,Luxury,4.0,fixed
+4,Këmishë - Larje,Këmishë,Të përditshme,Larje,Casual,2.5,fixed
+5,Këmishë - Hekurosje,Këmishë,Të përditshme,Hekurosje,Casual,1.5,fixed
+6,Këmishë - Larje - Luxury Line,Këmishë,Të përditshme,Larje,Luxury,5.0,fixed
+7,Bluzë - Larje,Bluzë,Të përditshme,Larje,Casual,2.5,fixed
+8,Bluzë - Hekurosje,Bluzë,Të përditshme,Hekurosje,Casual,1.5,fixed
+9,Bluzë - Larje - Luxury Line,Bluzë,Të përditshme,Larje,Luxury,4.0,fixed
+10,Xhemper - Larje,Xhemper,Të përditshme,Larje,Casual,3.0,fixed
+11,Xhemper - Hekurosje,Xhemper,Të përditshme,Hekurosje,Casual,1.5,fixed
+12,Xhemper - Larje - Luxury Line,Xhemper,Të përditshme,Larje,Luxury,6.0,fixed
+13,Duks i hollë - Larje,Duks i hollë,Të përditshme,Larje,Casual,3.0,fixed
+14,Duks i hollë - Hekurosje,Duks i hollë,Të përditshme,Hekurosje,Casual,1.5,fixed
+15,Duks i hollë - Larje - Luxury Line,Duks i hollë,Të përditshme,Larje,Luxury,6.0,fixed
+16,Duks i trashë - Larje,Duks i trashë,Të përditshme,Larje,Casual,3.0,fixed
+17,Duks i trashë - Hekurosje,Duks i trashë,Të përditshme,Hekurosje,Casual,1.5,fixed
+18,Duks i trashë - Larje - Luxury Line,Duks i trashë,Të përditshme,Larje,Luxury,4.0,fixed
+19,Setër - Larje,Setër,Kostume,Larje,Casual,4.0,fixed
+20,Setër - Hekurosje,Setër,Kostume,Hekurosje,Casual,2.5,fixed
+21,Setër - Larje - Luxury Line,Setër,Kostume,Larje,Luxury,7.0,fixed
+22,Pantolla shtof - Larje,Pantolla shtof,Kostume,Larje,Casual,3.0,fixed
+23,Pantolla shtof - Hekurosje,Pantolla shtof,Kostume,Hekurosje,Casual,2.0,fixed
+24,Pantolla shtof - Larje - Luxury Line,Pantolla shtof,Kostume,Larje,Luxury,5.0,fixed
+25,Komplet (setër & pantolla) - Larje,Komplet (setër & pantolla),Kostume,Larje,Casual,8.0,fixed
+26,Komplet (setër & pantolla) - Hekurosje,Komplet (setër & pantolla),Kostume,Hekurosje,Casual,4.0,fixed
+27,Komplet (setër & pantolla) - Larje - Luxury Line,Komplet (setër & pantolla),Kostume,Larje,Luxury,15.0,fixed
+28,Jelek i kostumit - Larje,Jelek i kostumit,Kostume,Larje,Casual,2.0,fixed
+29,Jelek i kostumit - Hekurosje,Jelek i kostumit,Kostume,Hekurosje,Casual,1.0,fixed
+30,Jelek i kostumit - Larje - Luxury Line,Jelek i kostumit,Kostume,Larje,Luxury,3.0,fixed
+31,Kravatë - Larje,Kravatë,Kostume,Larje,Casual,1.5,fixed
+32,Kravatë - Hekurosje,Kravatë,Kostume,Hekurosje,Casual,1.0,fixed
+33,Kravatë - Larje - Luxury Line,Kravatë,Kostume,Larje,Luxury,3.0,fixed
+34,Xhinse / farmerka - Larje,Xhinse / farmerka,Pantallona,Larje,Casual,3.0,fixed
+35,Xhinse / farmerka - Hekurosje,Xhinse / farmerka,Pantallona,Hekurosje,Casual,2.0,fixed
+36,Xhinse / farmerka - Larje - Luxury Line,Xhinse / farmerka,Pantallona,Larje,Luxury,5.0,fixed
+37,Trenerka komplet - Larje,Trenerka komplet,Pantallona,Larje,Casual,5.0,fixed
+38,Trenerka komplet - Hekurosje,Trenerka komplet,Pantallona,Hekurosje,Casual,3.0,fixed
+39,Trenerka komplet - Larje - Luxury Line,Trenerka komplet,Pantallona,Larje,Luxury,7.0,fixed
+40,Tuta sportive - Larje,Tuta sportive,Pantallona,Larje,Casual,4.0,fixed
+41,Tuta sportive - Hekurosje,Tuta sportive,Pantallona,Hekurosje,Casual,2.0,fixed
+42,Tuta sportive - Larje - Luxury Line,Tuta sportive,Pantallona,Larje,Luxury,6.0,fixed
+43,Fund i shkurtër i thjeshtë - Larje,Fund i shkurtër i thjeshtë,Fustane,Larje,Casual,3.0,fixed
+44,Fund i shkurtër i thjeshtë - Hekurosje,Fund i shkurtër i thjeshtë,Fustane,Hekurosje,Casual,2.0,fixed
+45,Fund i shkurtër i thjeshtë - Larje - Luxury Line,Fund i shkurtër i thjeshtë,Fustane,Larje,Luxury,5.0,fixed
+46,Fund i gjatë - Larje,Fund i gjatë,Fustane,Larje,Casual,5.0,fixed
+47,Fund i gjatë - Hekurosje,Fund i gjatë,Fustane,Hekurosje,Casual,2.0,fixed
+48,Fund i gjatë - Larje - Luxury Line,Fund i gjatë,Fustane,Larje,Luxury,7.0,fixed
+49,Fustan i përditshëm i shkurtër - Larje,Fustan i përditshëm i shkurtër,Fustane,Larje,Casual,5.0,fixed
+50,Fustan i përditshëm i shkurtër - Hekurosje,Fustan i përditshëm i shkurtër,Fustane,Hekurosje,Casual,3.0,fixed
+51,Fustan i përditshëm i shkurtër - Larje - Luxury Line,Fustan i përditshëm i shkurtër,Fustane,Larje,Luxury,8.0,fixed
+52,Fustan i përditshëm i gjatë - Larje,Fustan i përditshëm i gjatë,Fustane,Larje,Casual,8.0,fixed
+53,Fustan i përditshëm i gjatë - Hekurosje,Fustan i përditshëm i gjatë,Fustane,Hekurosje,Casual,4.0,fixed
+54,Fustan i përditshëm i gjatë - Larje - Luxury Line,Fustan i përditshëm i gjatë,Fustane,Larje,Luxury,10.0,fixed
+55,Fustan solemn i shkurtër pa rruaza - Larje,Fustan solemn i shkurtër pa rruaza,Fustane,Larje,Casual,10.0,fixed
+56,Fustan solemn i shkurtër pa rruaza - Hekurosje,Fustan solemn i shkurtër pa rruaza,Fustane,Hekurosje,Casual,5.0,fixed
+57,Fustan solemn i shkurtër pa rruaza - Larje - Luxury Line,Fustan solemn i shkurtër pa rruaza,Fustane,Larje,Luxury,15.0,fixed
+58,Fustan solemn i gjatë pa rruaza - Larje,Fustan solemn i gjatë pa rruaza,Fustane,Larje,Casual,15.0,fixed
+59,Fustan solemn i gjatë pa rruaza - Hekurosje,Fustan solemn i gjatë pa rruaza,Fustane,Hekurosje,Casual,7.0,fixed
+60,Fustan solemn i gjatë pa rruaza - Larje - Luxury Line,Fustan solemn i gjatë pa rruaza,Fustane,Larje,Luxury,20.0,fixed
+61,Fustan solemn i shkurtër me rruaza - Larje,Fustan solemn i shkurtër me rruaza,Fustane,Larje,Casual,15.0,fixed
+62,Fustan solemn i shkurtër me rruaza - Hekurosje,Fustan solemn i shkurtër me rruaza,Fustane,Hekurosje,Casual,10.0,fixed
+63,Fustan solemn i shkurtër me rruaza - Larje - Luxury Line,Fustan solemn i shkurtër me rruaza,Fustane,Larje,Luxury,20.0,fixed
+64,Fustan solemn i gjatë me rruaza - Larje,Fustan solemn i gjatë me rruaza,Fustane,Larje,Casual,20.0,fixed
+65,Fustan solemn i gjatë me rruaza - Hekurosje,Fustan solemn i gjatë me rruaza,Fustane,Hekurosje,Casual,15.0,fixed
+66,Fustan solemn i gjatë me rruaza - Larje - Luxury Line,Fustan solemn i gjatë me rruaza,Fustane,Larje,Luxury,30.0,fixed
+67,Fustane solemne për mbrëmje - Larje,Fustane solemne për mbrëmje,Fustane,Larje,Casual,8.0,fixed
+68,Fustane solemne për mbrëmje - Hekurosje,Fustane solemne për mbrëmje,Fustane,Hekurosje,Casual,4.0,fixed
+69,Fustane solemne për mbrëmje - Larje - Luxury Line,Fustane solemne për mbrëmje,Fustane,Larje,Luxury,10.0,fixed
+70,Vello e thjeshtë - Larje,Vello e thjeshtë,Fustane,Larje,Casual,20.0,fixed
+71,Vello e thjeshtë - Hekurosje,Vello e thjeshtë,Fustane,Hekurosje,Casual,15.0,fixed
+72,Vello e veçantë - Larje,Vello e veçantë,Fustane,Larje,Casual,30.0,fixed
+73,Vello e veçantë - Hekurosje,Vello e veçantë,Fustane,Hekurosje,Casual,20.0,fixed
+74,Vello me rruaza dhe kosh - Larje,Vello me rruaza dhe kosh,Fustane,Larje,Casual,50.0,fixed
+75,Vello me rruaza dhe kosh - Hekurosje,Vello me rruaza dhe kosh,Fustane,Hekurosje,Casual,30.0,fixed
+76,Pallto dimri e shkurtër e hollë - Larje,Pallto dimri e shkurtër e hollë,Pallto / Jakne,Larje,Casual,6.0,fixed
+77,Pallto dimri e shkurtër e hollë - Hekurosje,Pallto dimri e shkurtër e hollë,Pallto / Jakne,Hekurosje,Casual,4.0,fixed
+78,Pallto dimri e shkurtër e hollë - Larje - Luxury Line,Pallto dimri e shkurtër e hollë,Pallto / Jakne,Larje,Luxury,8.0,fixed
+79,Pallto dimri e gjatë - Larje,Pallto dimri e gjatë,Pallto / Jakne,Larje,Casual,10.0,fixed
+80,Pallto dimri e gjatë - Hekurosje,Pallto dimri e gjatë,Pallto / Jakne,Hekurosje,Casual,5.0,fixed
+81,Pallto dimri e gjatë - Larje - Luxury Line,Pallto dimri e gjatë,Pallto / Jakne,Larje,Luxury,15.0,fixed
+82,Mont me/pa pupla i shkurtër - Larje,Mont me/pa pupla i shkurtër,Pallto / Jakne,Larje,Casual,7.0,fixed
+83,Mont me/pa pupla i shkurtër - Hekurosje,Mont me/pa pupla i shkurtër,Pallto / Jakne,Hekurosje,Casual,5.0,fixed
+84,Mont me/pa pupla i shkurtër - Larje - Luxury Line,Mont me/pa pupla i shkurtër,Pallto / Jakne,Larje,Luxury,9.0,fixed
+85,Mont me/pa pupla i gjatë - Larje,Mont me/pa pupla i gjatë,Pallto / Jakne,Larje,Casual,10.0,fixed
+86,Mont me/pa pupla i gjatë - Hekurosje,Mont me/pa pupla i gjatë,Pallto / Jakne,Hekurosje,Casual,5.0,fixed
+87,Mont me/pa pupla i gjatë - Larje - Luxury Line,Mont me/pa pupla i gjatë,Pallto / Jakne,Larje,Luxury,15.0,fixed
+88,Jelek mont - Larje,Jelek mont,Pallto / Jakne,Larje,Casual,5.0,fixed
+89,Jelek mont - Hekurosje,Jelek mont,Pallto / Jakne,Hekurosje,Casual,3.0,fixed
+90,Jelek mont - Larje - Luxury Line,Jelek mont,Pallto / Jakne,Larje,Luxury,7.0,fixed
+91,Jakne lëkure / antilop e shkurtër - Larje,Jakne lëkure / antilop e shkurtër,Pallto / Jakne,Larje,Casual,10.0,fixed
+92,Jakne lëkure / antilop e shkurtër - Hekurosje,Jakne lëkure / antilop e shkurtër,Pallto / Jakne,Hekurosje,Casual,5.0,fixed
+93,Jakne lëkure / antilop e shkurtër - Larje - Luxury Line,Jakne lëkure / antilop e shkurtër,Pallto / Jakne,Larje,Luxury,15.0,fixed
+94,Jakne lëkure / antilop e gjatë - Larje,Jakne lëkure / antilop e gjatë,Pallto / Jakne,Larje,Casual,15.0,fixed
+95,Jakne lëkure / antilop e gjatë - Hekurosje,Jakne lëkure / antilop e gjatë,Pallto / Jakne,Hekurosje,Casual,10.0,fixed
+96,Jakne lëkure / antilop e gjatë - Larje - Luxury Line,Jakne lëkure / antilop e gjatë,Pallto / Jakne,Larje,Luxury,20.0,fixed
+97,Bundë / pelush e shkurtër - Larje,Bundë / pelush e shkurtër,Pallto / Jakne,Larje,Casual,12.0,fixed
+98,Bundë / pelush e shkurtër - Hekurosje,Bundë / pelush e shkurtër,Pallto / Jakne,Hekurosje,Casual,7.0,fixed
+99,Bundë / pelush e shkurtër - Larje - Luxury Line,Bundë / pelush e shkurtër,Pallto / Jakne,Larje,Luxury,15.0,fixed
+100,Bundë / pelush e gjatë - Larje,Bundë / pelush e gjatë,Pallto / Jakne,Larje,Casual,15.0,fixed
+101,Bundë / pelush e gjatë - Hekurosje,Bundë / pelush e gjatë,Pallto / Jakne,Hekurosje,Casual,10.0,fixed
+102,Bundë / pelush e gjatë - Larje - Luxury Line,Bundë / pelush e gjatë,Pallto / Jakne,Larje,Luxury,20.0,fixed
+103,Mantil i shkurtër - Larje,Mantil i shkurtër,Pallto / Jakne,Larje,Casual,5.0,fixed
+104,Mantil i shkurtër - Hekurosje,Mantil i shkurtër,Pallto / Jakne,Hekurosje,Casual,3.0,fixed
+105,Mantil i shkurtër - Larje - Luxury Line,Mantil i shkurtër,Pallto / Jakne,Larje,Luxury,10.0,fixed
+106,Mantil i gjatë - Larje,Mantil i gjatë,Pallto / Jakne,Larje,Casual,8.0,fixed
+107,Mantil i gjatë - Hekurosje,Mantil i gjatë,Pallto / Jakne,Hekurosje,Casual,5.0,fixed
+108,Mantil i gjatë - Larje - Luxury Line,Mantil i gjatë,Pallto / Jakne,Larje,Luxury,12.0,fixed
+109,Pallto / mont i fëmijëve - Larje,Pallto / mont i fëmijëve,Pallto / Jakne,Larje,Casual,5.0,fixed
+110,Pallto / mont i fëmijëve - Hekurosje,Pallto / mont i fëmijëve,Pallto / Jakne,Hekurosje,Casual,3.0,fixed
+111,Pallto / mont i fëmijëve - Larje - Luxury Line,Pallto / mont i fëmijëve,Pallto / Jakne,Larje,Luxury,8.0,fixed
+112,Set çarçafësh njësh - Larje,Set çarçafësh njësh,Aksesorë shtëpie,Larje,Casual,4.0,fixed
+113,Set çarçafësh njësh - Hekurosje,Set çarçafësh njësh,Aksesorë shtëpie,Hekurosje,Casual,6.0,fixed
+114,Set çarçafësh dysh - Larje,Set çarçafësh dysh,Aksesorë shtëpie,Larje,Casual,6.0,fixed
+115,Set çarçafësh dysh - Hekurosje,Set çarçafësh dysh,Aksesorë shtëpie,Hekurosje,Casual,3.0,fixed
+116,Shtresë e dyshekëve - Larje,Shtresë e dyshekëve,Aksesorë shtëpie,Larje,Casual,15.0,fixed
+117,Jorgan njësh - Larje,Jorgan njësh,Aksesorë shtëpie,Larje,Casual,5.0,fixed
+118,Jorgan dysh - Larje,Jorgan dysh,Aksesorë shtëpie,Larje,Casual,10.0,fixed
+119,Jastëk me/pa pupla - Larje,Jastëk,Aksesorë shtëpie,Larje,Casual,3.0,fixed
+120,Perde e vogël - Larje,Perde e vogël,Aksesorë shtëpie,Larje,Casual,8.0,fixed
+121,Perde e vogël - Hekurosje,Perde e vogël,Aksesorë shtëpie,Hekurosje,Casual,5.0,fixed
+122,Perde e madhe - Larje,Perde e madhe,Aksesorë shtëpie,Larje,Casual,15.0,fixed
+123,Perde e madhe - Hekurosje,Perde e madhe,Aksesorë shtëpie,Hekurosje,Casual,10.0,fixed
+124,Uniforma - Larje,Uniforma,Aksesorë shtëpie,Larje,Casual,7.0,fixed
+125,Uniforma - Hekurosje,Uniforma,Aksesorë shtëpie,Hekurosje,Casual,4.0,fixed
+126,Mbulesa divanesh - Larje,Mbulesa divanesh,Aksesorë shtëpie,Larje,Casual,3.0,fixed
+127,Larje me kg,"Larje me kg (peshqirë, mbulesa tavolinash)",Aksesorë shtëpie,Larje,Casual,3.0,per_kg
+128,Hekurosje me kg,Hekurosje me kg,Aksesorë shtëpie,Hekurosje,Casual,2.0,per_kg
+129,Këpucë lëkure - Larje,Këpucë lëkure,Këpucë,Larje,Casual,8.0,fixed
+130,Këpucë antilop - Larje,Këpucë antilop,Këpucë,Larje,Casual,10.0,fixed
+131,Patika të ndryshme,Patika (të thjeshta dhe suede),Këpucë,Larje,Casual,6.0,fixed
+132,UGG,UGG,Këpucë,Larje,Luxury,15.0,fixed
+133,Shall - Larje,Shall,Aksesorë,Larje,Casual,2.0,fixed
+134,Shall - Hekurosje,Shall,Aksesorë,Hekurosje,Casual,1.0,fixed
+135,Çorape & të brendshme - Larje & Hekurosje,Çorape & të brendshme,Aksesorë,Larje & Hekurosje,Casual,0.5,fixed
+136,Maxi Cosa e fëmijëve - Larje,Maxi Cosa,Aksesorë,Larje,Casual,15.0,fixed
+137,Kofera - Larje,Kofera,Aksesorë,Larje,Casual,15.0,fixed
+138,Karroca të fëmijëve - Larje,Karroca,Aksesorë,Larje,Casual,20.0,fixed
+139,Çanta - Larje,Çanta,Aksesorë,Larje,Casual,8.0,fixed
+140,Çanta - Antilop,Çanta antilop,Aksesorë,Larje,Casual,15.0,fixed
+141,Pastrim rrobash të ndryshme,Pastrim rrobash të ndryshme,Të ndryshme,Larje,Casual,0.01,free
+142,Hekurosje rrobash të ndryshme,Hekurosje rrobash të ndryshme,Të ndryshme,Hekurosje,Casual,0.01,free
+143,Të ndryshme,Të ndryshme,Të ndryshme,Tjetër,Casual,0.01,free
